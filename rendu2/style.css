@@ -1,0 +1,88 @@
+body{
+	color: white;
+
+}
+
+html {
+  margin:0;
+  padding:0;
+  background: url(img/backgeround.png) no-repeat center center fixed; 
+  background-size: cover; 
+}
+
+
+ul {
+  float: right;
+  color: white;
+  text-decoration: none;
+
+}
+
+a {
+  padding: 28px;
+  color: white;
+    text-decoration: none;
+
+}
+
+hr {
+  margin-top: 40px;
+  width: 1000px;
+}
+.p3 {
+  margin-top: 40px;
+  margin-left: 80px;
+}
+.contenu{
+	text-align: center;
+	margin-top: 180px;
+	font-size: 58px;
+	font-family: Arial;
+}
+.col-container {
+	margin-top: 60px;
+  text-align: center;
+  display: flex;
+  width: 100%;
+}
+.col {
+  flex: 1;
+  padding: 10px;
+  margin-top: 1px;
+}
+.vl {
+  border-left: 2px solid gray;
+  height: 115px;
+}
+
+.button {
+  border: 2px solid #72c397ff;color:#72c397ff ;
+  border-radius: 18px;
+  padding: 10px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Arial;
+  font-size: 10px;
+  cursor: pointer;
+}
+.domaine{
+	margin-top: 20px;
+
+}
+.desc{
+	margin-top: 7px;
+	color: gray;
+
+}
+.col-container1{
+	margin-top: 20px;
+  text-align: center;
+  display: flex;
+  width: 100%;
+}
+.col-container0{
+  margin-top: 20px;
+  display: flex;
+  width: 100%;
+}
